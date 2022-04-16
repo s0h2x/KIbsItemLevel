@@ -1,0 +1,20 @@
+## Interface: 30300
+## Version: v0.6.1
+## Author: Kibs
+## SavedVariablesPerCharacter: KibsItemLevelConfig
+
+Localization\enUS.lua
+Localization\esES.lua
+Localization\esMX.lua
+Localization\deDE.lua
+Localization\ruRU.lua
+Localization\frFR.lua
+Localization\zhCN.lua
+Localization\zhTW.lua
+Localization\koKR.lua
+Localization\ptBR.lua
+Localization\itIT.lua
+
+libs\LibItemUpgradeInfo-1.0\LibItemUpgradeInfo-1.0.xml
+KibsItemLevel.lua
+KibsItemLevel.xml
